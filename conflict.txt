@@ -1,3 +1,2 @@
-
 Created this file to validate and Fix conflicts while merging.
 This file is ammended by Developer B
